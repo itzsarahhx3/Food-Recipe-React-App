@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Food Recipe Searching React App
 
 YouTube Link:
 https://youtu.be/-zlK-Vsjc94
